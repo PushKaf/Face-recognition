@@ -1,5 +1,7 @@
 # Face-recognition
 
+Basically just me learning about open-cv and a cool little project; which i followed a tutorial by Sentdex. 
+
 uses OpenCV2 and Face Recognition modules to recognize your face; also, will put the name of the person in a green box around their head. 
 
 <p><strong>How To Use&nbsp;<img src="https://html-online.com/editor/tinymce4_6_5/plugins/emoticons/img/smiley-laughing.gif" alt="laughing" /></strong></p>
